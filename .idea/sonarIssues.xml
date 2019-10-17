@@ -23,6 +23,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/app/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/app/MainV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/tavisca/dataconversion/MySQLConnection.java">
           <value>
             <set />
@@ -74,6 +84,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/tavisca/dataconversion/dataMapper/Mapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/tavisca/dataconversion/filehanding/FileHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/tavisca/dataconversion/filehanding/fileHandler.java">
           <value>
             <set />
           </value>
