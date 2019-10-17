@@ -1,9 +1,8 @@
-package com.tavisca.dataconversion;
+package com.tavisca.dataconversion.connection;
 
 import org.junit.Test;
 
-import java.sql.Connection;
-import java.sql.SQLException;
+import java.sql.*;
 
 import static junit.framework.TestCase.assertTrue;
 
